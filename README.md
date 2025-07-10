@@ -86,6 +86,7 @@ Make sure both are running on the same network or use `localhost`.
 ### 🔐 Secure Chat Server Interface
 
 ![Secure Chat Server GUI](screenshots/screenshot_chat_server_gui.jpeg)
+![Client_Side_GUI](screenshots/client_side.jpeg)
 
 ---
 
